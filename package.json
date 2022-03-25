@@ -44,7 +44,7 @@
     "tailwindcss": "^2.2.19"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.2",
     "@types/classnames": "^2.3.1",
     "@types/firebase": "^3.2.1",
