@@ -15,7 +15,7 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
-    "@ag-grid-enterprise/all-modules": "^26.2.0",
+    "@ag-grid-enterprise/all-modules": "^27.2.1",
     "@airbrake/browser": "^2.1.7",
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
