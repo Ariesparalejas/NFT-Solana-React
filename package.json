@@ -17,7 +17,7 @@
   "dependencies": {
     "@ag-grid-enterprise/all-modules": "^26.2.0",
     "@airbrake/browser": "^2.1.7",
-    "@headlessui/react": "^1.4.2",
+    "@headlessui/react": "^1.7.4",
     "@heroicons/react": "^1.0.5",
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/forms": "^0.3.4",
